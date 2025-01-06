@@ -60,6 +60,7 @@ This API was created to house game info, have a player profile to save games to 
 - @DELETE
   - *http://localhost:8080/players/{userId}*
 ## Reviews
+### Add Review for a game
 - @POST
   - *http://localhost:8080/reviews/{gameId}*
 - `{`
