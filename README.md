@@ -73,6 +73,6 @@ This API was created to house game info, have a player profile to save games to 
   - *http://localhost:8080/reviews/{reviewId}/games/{gameId}*
 - @GET (By Game)
   - *http://localhost:8080/reviews/{gameId}/reviews*
-### Delete Player
+### Delete Review
 - @DELETE
   - *http://localhost:8080//reviews/{reviewId}/games/{gameId}*
